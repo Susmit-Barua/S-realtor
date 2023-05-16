@@ -11,8 +11,6 @@ export const fetchApi = async (url) => {
   });
 
   return data;
-<<<<<<< HEAD
+
 };
-=======
-}
->>>>>>> e069d25f40bde1990a18dbe0ae2fe2995c226e79
+
